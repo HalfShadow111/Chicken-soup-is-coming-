@@ -2,6 +2,8 @@
 这只是我随便做出来的数据包。它来源于中国的一个梗。
 This is just a data pack I made casually.
 It comes from a meme in China.
+# 下载链接 Download link
+[点击我！Click me!](https://modrinth.com/mod/chicken-soup-is-coming)
 # 关于这个梗 About this meme
 这个梗是中国的电视剧《激战江南》中的一段剧情。
 一位炊事员拿着有毒的鸡汤放在桌子上并让王大队长喝汤。
